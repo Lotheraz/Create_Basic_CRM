@@ -1,4 +1,5 @@
 This was made entirely for learning purposes. 
+PS: More comments are required in several of the files, these will be addded later, but it is now 03:36 am and I need to get some sleep. 
 
 A simple and basic Customer Relationship Management (CRM) system built using HTML, CSS, JavaScript, and Node.js. This project provides a minimalistic interface to manage customer leads, showcasing the following functionalities:
 Add New Leads: Users can input customer information, including name, email, address, phone number, lead type (hot, cold, reference), and a timestamp for when the lead was created.
