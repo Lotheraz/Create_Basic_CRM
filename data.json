@@ -1,0 +1,80 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Springfield",
+    "phone": "12345678",
+    "lead": "hot"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "address": "456 Elm St, Shelbyville",
+    "phone": "23456789",
+    "lead": "cold"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "789 Maple Ave, Ogdenville",
+    "phone": "34567890",
+    "lead": "reference"
+  },
+  {
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "address": "101 Pine St, Capital City",
+    "phone": "45678901",
+    "lead": "hot"
+  },
+  {
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "address": "202 Oak St, Springfield",
+    "phone": "56789012",
+    "lead": "cold"
+  },
+  {
+    "name": "Eve Miller",
+    "email": "eve.miller@example.com",
+    "address": "303 Birch Ave, Shelbyville",
+    "phone": "67890123",
+    "lead": "reference"
+  },
+  {
+    "name": "Frank White",
+    "email": "frank.white@example.com",
+    "address": "404 Cedar Rd, Ogdenville",
+    "phone": "78901234",
+    "lead": "hot"
+  },
+  {
+    "name": "Grace Wilson",
+    "email": "grace.wilson@example.com",
+    "address": "505 Ash Dr, Capital City",
+    "phone": "89012345",
+    "lead": "cold"
+  },
+  {
+    "name": "Hannah Moore",
+    "email": "hannah.moore@example.com",
+    "address": "606 Willow Ln, Springfield",
+    "phone": "90123456",
+    "lead": "reference"
+  },
+  {
+    "name": "Ian Taylor",
+    "email": "ian.taylor@example.com",
+    "address": "707 Redwood Ct, Shelbyville",
+    "phone": "12345679",
+    "lead": "hot"
+  },
+  {
+    "name": "Test-User",
+    "email": "Test@test.com",
+    "address": "Testplace",
+    "phone": "55590324",
+    "lead": "hot",
+    "created": "04/12/2024, 03:15:51"
+  }
+]

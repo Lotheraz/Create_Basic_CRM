@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Current Leads Display</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="scripts.js"></script>
+  </head>
+  <body>
+    <h1>Current Leads</h1>
+    <div class="card-container"></div>
+    <!-- Form for adding a new lead -->
+    <form id="add-lead-form">
+      <h2>Add a New Lead</h2>
+      <label>
+        Name:
+        <input type="text" id="name" required />
+      </label>
+      <label>
+        Email:
+        <input type="email" id="email" required />
+      </label>
+      <label>
+        Address:
+        <input type="text" id="address" required />
+      </label>
+      <label>
+        Phone:
+        <input type="number" id="phone" required />
+      </label>
+      <label>
+        Lead Type:
+        <select id="lead" required>
+          <option value="hot">Hot</option>
+          <option value="cold">Cold</option>
+          <option value="reference">Reference</option>
+        </select>
+      </label>
+      <button type="button1" id="add-lead-button">Add Lead</button>
+    </form>
+
+    Add more content
+  </body>
+</html>
